@@ -1,0 +1,63 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Allen-Zhu \& Li(2024)Allen-Zhu and Li]{allenzhu2024physicslanguagemodels33}
+Allen-Zhu, Z. and Li, Y.
+\newblock {Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws}, 2024.
+
+\bibitem[Baocheng et~al.(2013)Baocheng, Qingyu, Mingsheng, and You]{info_conservation_2013}
+Baocheng, Z., Qingyu, C., Mingsheng, Z., and You, L.
+\newblock {Information conservation is fundamental: recovering the lost information in Hawking radiation}.
+\newblock \emph{International Journal of Modern Physics D}, 22\penalty0 (12):\penalty0 1341014, 2013.
+
+\bibitem[Bishop(1995)]{Bishop1995}
+Bishop, C.~M.
+\newblock \emph{{Neural Networks for Pattern Recognition}}.
+\newblock Oxford University Press, 1995.
+
+\bibitem[Kaplan et~al.(2020)Kaplan, McCandlish, Henighan, et~al.]{ScalingLaw1_2020}
+Kaplan, J., McCandlish, S., Henighan, T., et~al.
+\newblock {Scaling Laws for Neural Language Models}, 2020.
+
+\bibitem[Landauer(1961)]{5392446}
+Landauer, R.
+\newblock Irreversibility and heat generation in the computing process.
+\newblock \emph{IBM Journal of Research and Development}, 5\penalty0 (3):\penalty0 183--191, 1961.
+
+\bibitem[Li \& Zhao(2021)Li and Zhao]{distillation_2021}
+Li, X. and Zhao, B.
+\newblock {Video distillation}.
+\newblock \emph{SCIENTIA SINICA Informationis}, 51\penalty0 (5):\penalty0 695--734, 2021.
+
+\bibitem[{OpenAI}(2024)]{GPTo1_2024}
+{OpenAI}.
+\newblock {Introducing OpenAI o1}, 2024.
+\newblock URL \url{https://openai.com/o1}.
+\newblock Accessed: 2024-10-25.
+
+\bibitem[Rae(2023)]{AGI_2023}
+Rae, J.
+\newblock {Compression for AGI}, 2023.
+\newblock URL \url{https://www.youtube.com/watch?v=dO4TPJkeaaU}.
+\newblock Accessed: 2024-10-23.
+
+\bibitem[Rumelhart et~al.(1986)Rumelhart, Hinton, and Williams]{BP_1986}
+Rumelhart, D.~E., Hinton, G.~E., and Williams, R.~J.
+\newblock Learning representations by back-propagating errors.
+\newblock \emph{Nature}, 323:\penalty0 533--536, 1986.
+
+\bibitem[Shannon(1948)]{Information_1948}
+Shannon, C.~E.
+\newblock {A Mathematical Theory of Communication}.
+\newblock \emph{The Bell System Technical Journal}, 27\penalty0 (3):\penalty0 379--423, 1948.
+
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, et~al.]{NIPS2017_3f5ee243}
+Vaswani, A., Shazeer, N., Parmar, N., et~al.
+\newblock {Attention is All you Need}.
+\newblock In \emph{Advances in Neural Information Processing Systems (NeurIPS)}, volume~30. Curran Associates, Inc., 2017.
+
+\end{thebibliography}
