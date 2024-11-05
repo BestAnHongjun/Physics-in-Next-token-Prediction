@@ -12,7 +12,7 @@ Hongjun An<sup>&dagger;</sup>, Yiliang Song<sup>&dagger;</sup>, and Xuelong Li<s
 
 We discovered the underlying physics in Next-token Prediction (NTP). We identified the law of information conservation within NTP and proposed the **First Law of Information Capacity (IC-1)**, demonstrating that the essence of intelligence emergence in auto-regressive models is fundamentally a process of information transfer. We also introduced Landauer's Principle into NTP, formulating the **Second Law of Information Capacity (IC-2)**, which establishes the relationship between auto-regressive model training and energy consumption. Additionally, we presented several corollaries, which hold practical significance for production practices. Finally, we validated the compatibility and complementarity of our findings with existing theories.
 
-[[ArXiv]](https://arxiv.org/abs/2411.00660)
+[[ArXiv]](https://arxiv.org/abs/2411.00660) [[YouTube]](https://www.youtube.com/watch?v=hzQLqVZKn7c) [[HuggingFace]](https://huggingface.co/papers/2411.00660)
 
 ## Citations
 
